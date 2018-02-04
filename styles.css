@@ -1,39 +1,41 @@
 body {
 
-};
+}
+ul {
+	list-style-type: none;
+}
 #web-component-select {
 	margin-top: 35px;
 	margin-bottom: 50px;
-};
+}
 #select-civ {
 	margin-bottom: 25px;
-};
+}
 #select-compon {
 	margin-bottom: 25px;
-};
+}
 #button-one-name {
 	margin-bottom: 20px;
 	margin-top: 20px;
 	padding-left: 20px;
 	padding-right: 20px;
-<<<<<<< HEAD
-};
-#single-result-text p {
-	font-size: 50px;
-	margin-bottom: 150px;
-};
-=======
 }
 #single-result-text p {
 	font-size: 50px;
 	margin-bottom: 150px;
 }
->>>>>>> ed532f186f2c33e8f2590b3f8cad4f0425441f8b
-#many-result ul {
+#single-result-text p {
+	font-size: 50px;
+	margin-bottom: 150px;
+}
+#many-result ul li {
 	list-style-type: none;
 	text-decoration: none;
-};
-#many-result li a {
-	list-style-type: none;
+}
+#many-result ul li a {
+	list-style: none;
 	text-decoration: none;
-};
+}
+.panel-body {
+	text-align: center;
+}

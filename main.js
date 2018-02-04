@@ -44,42 +44,17 @@ function fetchData() {
 		$(this).css("font-size", "50px");
 	})
 		
-<<<<<<< HEAD
 }
 function selectorInput() {
 	var selectorId = document.getElementById("#select-compon");
-	
-
-
-
 
 }
-=======
-}
+
 function selectorInput() {
 	var selectorId = document.getElementById("#select-compon");
-	
-
-
-
 
 }
->>>>>>> ed532f186f2c33e8f2590b3f8cad4f0425441f8b
-
-
-
-
-
     $('#button-one-name').click(function(){
        fetchData();
     });
 
-
-
-
-<<<<<<< HEAD
-=======
-
-
-
->>>>>>> ed532f186f2c33e8f2590b3f8cad4f0425441f8b
