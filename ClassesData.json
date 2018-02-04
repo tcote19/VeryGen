@@ -1,0 +1,45 @@
+{
+	"classes": {
+
+		"val0": { 
+		"name": "header",
+		"text": ["Header-piece", "Header-butt", "Air-header", "Header-honcho", "Header-ache", "Header-cold", "Be-header", "Fat-header", "Jar-header", "Red-header", "Hot-header", "Pin-Header", "War-header", "Arrow-header", "Header-strong", "Header-hunter", "Coke-header", "Dick-header", "Bald-header", "Meat-header", "Egg-header", "Header-set", "Bow-header", "God-header"]
+		},
+		"val1:": {
+		"name": "navigation bar",
+		"text": ["Nav-igator", "Navbar-nuevo", "Navbar-nachos", "Naughty-nav", "Menu-nav", "Burrito-navbar", "Menudo-navbar", "Niffty-navbar", "Nano-nav", "Navigational-bar", "Tophat-nav", "Prime-navbar", "Necro-nav", "Navbar-falcon", "Napkin-navbar", "Great-nav-guy", "Great-nav-gal", "Gone-navbaring", "My-menubar", "Navbar-nuts", "Navbar-nabber", "Nav-cissist", "Neato-nav", "Navvy-header", "Topshelf-Navbar", "Navtimus-prime"]
+		},
+		"val2": {
+		"name": "sections",
+		"text": ["Section-main", "Sexy-section", "Da-section", "Sectional-place", "Culde-section", "Section-zone", "Section-district", "Sub-section", "Ultra-section", "Cross-section", "Criss-section", "Section-mega", "Section-alpha", "Section-bizzle", "Section-corpa", "Section-deli", "Prota-sectional", "Sectional-healing", "Sect-dominant", "Section-active", "Section-genuine", "Section-chin", "Sorby-section", "Section-segment", "Rouge-section"]
+		},
+		"val3": {
+		"name": "articles",
+		"text": ["Blahrticle", "Smarticle", "Article-particle", "Article-board", "Of-article", "Article-blahblah", "Dope-article", "Main-article", "Article-hot", "Article-away", "Tarticle", "Go-karticle", "Wal-marticle", "Lady-gagarticle", "Man-gagarticle", "Kid-gagarticle", "Lawn-darticle"]
+		},
+		"val4": {
+		"name": "the aside",
+		"text": ["Aside-from", "Eat-aside", "Ann-aside", "Cy-anaside", "Peak-aside", "Sett-aside", "Drove-aside", "Aside-side", "Aside-black", "Aside-trough", "Aside-girl", "Aside-guy", "Aside-dolphin", "Aside-pot", "West-aside", "Pest-aside", "Step-aside", "Aside-chain", "Dark-aside"]
+		},
+		"val5": {
+		"name": "footer",
+		"text": ["Footer-main", "Mega-footer", "Footer-cooter", "Footie-booter", "Proper-footer", "Footer-fantasy", "Footer-banger", "Your-footer", "Royal-footer", "Arch-footer", "Toe-footer", "Footer-jam", "Footer-boogie", "Footer-hoof", "Footer-trot", "Tasty-footer", "Free-footer", "Decent-footer", "Best-footer", "Wholesome-footer", "Footer-sixer"]
+		},
+		"val6": {
+		"name": "buttons",
+		"text": ["Button-johnson", "Main-dang-button", "Button-up", "Button-down", "Button-aface", "Exo-button", "Durty-button", "Secret-button", "Lil-button", "Big-button", "Ez-button", "Booze-button", "Button-buttocks", "Chop-button", "Morpho-button", "Sir-button", "Ultra-button", "Dyna-button", "Mystical-button", "Un-button", "Button-ball", "Butt-on", "Button-hole", "Button-porpoise", "Neo-button", "Trog-button", "Button-poly", "Button-mono", "Button-nimbus"]
+		},
+		"val7": {
+		"name": "galactic",
+		"text": ["Headpiece", "Head-butter", "Airhead", "Head-honcho", "Headache", "Head-cold"]
+		},
+		"val8": {
+		"name": "historical",
+		"text": ["Headpiece", "Head-butter", "Airhead", "Head-honcho", "Headache", "Head-cold"]
+		},
+		"val9": {
+		"name": "lotr",
+		"text": ["Headpiece", "Head-butter", "Airhead", "Head-honcho", "Headache", "Head-cold"]
+		}
+	}
+}
