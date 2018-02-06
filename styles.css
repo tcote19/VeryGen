@@ -28,6 +28,12 @@ ul {
 	font-size: 50px;
 	margin-bottom: 150px;
 }
+#category-btns > .row {
+	padding: 10px 20px;
+}
+#category-btns button {
+	padding: 10px 30px;
+}
 #many-result ul li {
 	list-style-type: none;
 	text-decoration: none;

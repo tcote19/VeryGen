@@ -40,20 +40,13 @@ function fetchData() {
 		var jsonParsed = JSON.parse(jsonData);
 
 		cardElement.show(function() {
-		$('#single-result-text').replaceWith(jsonParsed.classes.val0.text[4]);
+		$('#single-result-text').replaceWith(jsonParsed.classes.val0.text[3]);
 		$(this).css("font-size", "50px");
 	})
 		
 }
-function selectorInput() {
-	var selectorId = document.getElementById("#select-compon");
 
-}
 
-function selectorInput() {
-	var selectorId = document.getElementById("#select-compon");
-
-}
     $('#button-one-name').click(function(){
        fetchData();
     });
